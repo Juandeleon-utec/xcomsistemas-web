@@ -1,0 +1,22 @@
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="navyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12314A"/>
+      <stop offset="100%" stop-color="#0B1F2E"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5EEAD4"/>
+      <stop offset="100%" stop-color="#0F9C8C"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="160" height="160" rx="32" fill="url(#navyGrad)"/>
+  <g stroke="url(#tealGrad)" stroke-width="11" stroke-linecap="round">
+    <line x1="42" y1="42" x2="118" y2="118"/>
+    <line x1="118" y1="42" x2="42" y2="118"/>
+  </g>
+  <circle cx="80" cy="80" r="9" fill="#F1F5F9"/>
+  <rect x="35" y="35" width="11" height="11" rx="2.5" fill="#5EEAD4"/>
+  <rect x="114" y="35" width="11" height="11" rx="2.5" fill="#5EEAD4"/>
+  <rect x="35" y="114" width="11" height="11" rx="2.5" fill="#5EEAD4"/>
+  <rect x="114" y="114" width="11" height="11" rx="2.5" fill="#5EEAD4"/>
+</svg>
